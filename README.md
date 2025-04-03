@@ -14,7 +14,7 @@ Make sure you have Python 3 installed along with the required dependencies.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/emb-project-HMI.git
+git clone https://github.com/morb0t/emb-project-HMI.git
 cd emb-project-HMI
 ```
 
