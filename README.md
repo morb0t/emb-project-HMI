@@ -53,6 +53,3 @@ This project is licensed under the Apache License 2.0.
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements.
 
-## Contact
-For any questions, reach out via [your contact email or GitHub Issues].
-
