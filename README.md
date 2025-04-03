@@ -45,7 +45,7 @@ python3 main.py
 - All received data is stored in the database for future analysis.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ## Author
 **ELHARDA Anouar**
