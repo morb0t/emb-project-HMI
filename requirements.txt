@@ -1,0 +1,5 @@
+PyQt6
+pyqt6-qt6
+pyqt6-sip
+pyserial
+numpy
